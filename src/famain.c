@@ -5,6 +5,10 @@
 #include "../lib/faProgressBar.h"
 #include "../lib/faCombinatoriaFernando_Par.h"
 
+// Fernando Josue Aldaz Lascano
+// Examen 1
+//https://github.com/Josxx24/examen   link git
+
 int main()
 {
 	char favalidarco[26],favalidarc[11];
